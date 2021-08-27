@@ -1,0 +1,151 @@
+*{
+  margin: 0%;
+}
+.head{
+  background: rgb(103, 2, 62);
+  height: 460px;
+  position: relative;
+  width: 1360px;
+}
+.h1{
+  letter-spacing:6px;
+  color: rgb(224, 211, 211);
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  text-align: center;
+  border:  solid violet;
+  border-radius: 15px;
+  padding: 15px;
+}
+.date{
+  position: absolute;
+  top: 15%;
+  right: 5%;
+  text-decoration: underline;
+  color: palevioletred;
+}
+.tabs{
+  position: absolute;
+  top: 35%;
+  left: 20%;
+}
+#one a{
+  text-decoration: none;
+  color: white;
+  background: black;
+  position: absolute;
+  left: 550%;
+  padding: 10px;
+}
+#one a:hover{
+  background: white;
+  color: black;
+  box-shadow: 1px 1px 1px whitesmoke;
+}
+#two a{
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 10px;
+  position: absolute;
+  left: 290%;
+}
+#two a:hover{
+  background: white;
+  color: black;
+  box-shadow: 1px 1px 1px whitesmoke;
+}
+#three a{
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 10px;
+  position: absolute;
+  left: 5%;
+}
+#three a:hover{
+  background: white;
+  color: black;
+  box-shadow: 1px 1px 1px whitesmoke;
+}
+.para{
+  background: rgba(255, 118, 93, 0.674);
+  position: absolute;
+  bottom: 0%;
+  text-align: center;
+}
+.para h3{
+  color: rgb(133, 39, 23);
+  letter-spacing: 2px;
+  background: rgb(60, 14, 6);
+  padding: 30px;
+}
+.para p{
+  padding: 20px;
+  letter-spacing: 1px;
+}
+.middle{
+  position: relative;
+  margin-top: 50px;
+  height: 400px;
+}
+.one{
+  position: absolute;
+  left: 200px;
+}
+.pic{
+  display: inline-block;
+}
+.pic img{
+  border-radius: 10px;
+}
+.para2{
+  background: linear-gradient(white,lightpink);
+  width: 250px;
+  height: 100px;
+  text-align: center;
+}
+.two{
+  position: absolute;
+  left: 540px;
+}
+.three{
+  position: absolute;
+  left: 880px;
+}
+.hm{
+  text-align: center;
+  padding: 10px;
+  font-family: monospace;
+}
+.oh{
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid grey;
+  border-radius: 30px;
+}
+.footer{
+  width: 1360px;
+  height: 40vh;
+  position: relative;
+}
+.tabs2 a{
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 10px;
+  margin: 20px;
+  position: absolute;
+}
+#fone{
+  position: absolute;
+  top: 30px;
+  left: 150px;
+}
+#fone a:hover{
+  background: white;
+  color: black;
+  box-shadow: 1px 1px 1px whitesmoke;
+}
